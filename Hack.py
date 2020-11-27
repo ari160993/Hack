@@ -6,14 +6,14 @@ from os import system
 
 def main():
    print '================================================='
-   print '               create by Ha3MrX                  '
+   print '               create by jovank4                  '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
    print '  _,.                                            '
    print '                                                 '
    print '                                                 '
-   print '           HA3MrX                                '
+   print '           jov4n                                '
    print '       _,.                   '
    print '     ,` -.)                  '
    print '    ( _/-\\-._               '
@@ -36,11 +36,11 @@ def main():
    print '           ()   V.1.0        '
 
 main()
-print '[1] start the attack'
+print '[1] start hack'
 print '[2] exit'
 option = input('==>')
 if option == 1:
-   file_path = raw_input('path of passwords file :')
+   file_path = raw_input('path of passwords file :12345678
 else:
    system('clear')
    exit()
